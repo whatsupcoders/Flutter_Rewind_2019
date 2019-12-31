@@ -1,9 +1,19 @@
-# Flutter_Rewind_2019
+# Flutter Rewind 2019
+
 This project is about Flutter Rewind for 2019.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/46075509/71635832-0c81be00-2bf6-11ea-8a5b-3fdc8fc6a502.png" width="800"/>
+            </td>            
+      </tr>
+  </table>
+  </div>
 
 The video is available here - https://youtu.be/snzabMuZ4Mo
 
-All the details mentioned in the slides and video are listed below.
+All the details mentioned in the slides and the video are listed below.
 
 Jan
  - Whatsupcoders
@@ -71,3 +81,11 @@ Jan
       
    - https://dartpad.dartlang.org/b010241c3ecad1fd2b80c39858ff8eda
    - https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752
+   
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
